@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aygnsdqva
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning React  && improving my Rest skills
+- 💞️ I’m looking to collaborate on whole countries
+- 📫 How to reach me : Whatsapp(0513870603) || mail(aygn.sadiqova@gmail.com)
