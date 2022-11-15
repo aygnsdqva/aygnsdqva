@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aygnsdqva
+- 👋 Hi, I’m Aygun :)
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React  && improving my Rest skills
 - 💞️ I’m looking to collaborate on whole countries
