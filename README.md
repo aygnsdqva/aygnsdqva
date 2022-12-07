@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/0a9108cfcbe39b4394f02381a7832bed5d7a33b334e0d6d336e638fbdcf19069/68747470733a2f2f6d79776562323030322e77337370616365732e636f6d2f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
+![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/185428273/original/87e2cd262b9ceedca353a471c3a9325dbc803ebd/be-your-full-stack-web-developer-proficient-in-reactjs-and-java-technologies.jpg)
 <h1 align="center">Hi 👋, I'm Aygun Sadiqova</h1>
 <h3 align="center">Java Web Developer from Azerbaijan</h3>
 
