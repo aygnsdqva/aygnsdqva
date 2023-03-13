@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aygnsdqva&label=Profile%20views&color=0e75b6&style=flat" alt="aygnsdqva" /> </p>
 
-- 🔭 I’m currently working on **Salad.az**
+- 🔭 I’m currently working on my site :  http://34.173.65.189/#/
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Microservice**
 
-- 💬 Ask me about **Java,Spring..**
+- 💬 Ask me about **Java,Spring,React,Rest..**
 
 - 📫 How to reach me **aygn.sadiqova@gmail.com**
 
