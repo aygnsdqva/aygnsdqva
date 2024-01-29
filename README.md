@@ -1,4 +1,4 @@
-![MasterHead](https://codeagepk.com/wp-content/uploads/2019/04/home-gif.gif)
+![MasterHead](https://www.aaditritechnology.com/images/phpdevelopment.gif)
 <h1 align="center">Hi 👋, I'm Aygun Sadiqova</h1>
 <h3 align="center">Full Stack Developer from Azerbaijan</h3>
 
