@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif)
+![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 <h1 align="center">Hi 👋, I'm Aygun Sadiqova</h1>
 <h3 align="center">Full Stack Developer from Azerbaijan</h3>
 
